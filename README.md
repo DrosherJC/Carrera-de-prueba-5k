@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏃 Carrera 5K · Proyecto Web
 
 Sitio de registro gratuito para una carrera 5K, construido con **Next.js 14**, **Supabase** y desplegado en **Vercel**.
@@ -148,3 +149,6 @@ Devuelve el conteo total de inscritos.
 - [ ] Exportar lista a Excel/CSV
 - [ ] Límite máximo de participantes
 - [ ] Múltiples fechas/ediciones de carrera
+=======
+# Carrera-de-prueba-5k
+>>>>>>> 340fd169aec66355cb419c7a76599bd968f0732f
