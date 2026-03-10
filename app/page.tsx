@@ -39,7 +39,7 @@ export default function Home() {
               <h1 className="font-display text-7xl lg:text-9xl leading-none tracking-wide text-brand-light mb-4">
                 CORRE
                 <br />
-                <span className="text-brand-orange">5K</span>
+                <span className="text-brand-orange">10K</span>
               </h1>
 
               <p className="text-brand-muted text-lg leading-relaxed max-w-md mb-8">
