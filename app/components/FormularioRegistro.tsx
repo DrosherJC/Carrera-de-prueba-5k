@@ -140,7 +140,7 @@ export default function FormularioRegistro() {
           <input
             {...register("telefono")}
             type="tel"
-            placeholder="+57 300 123 4567"
+            placeholder="+593 300 123 456"
             className={`input-field ${errors.telefono ? "input-error" : ""}`}
           />
           {errors.telefono && (
